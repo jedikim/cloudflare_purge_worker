@@ -1,4 +1,4 @@
-# cloudflare_purge_worker
+# cloudflare purge worker for purging from your Client applications(Web/App)
 
 You have to edit 3 parts of code.
 1. your DNS zone ID
